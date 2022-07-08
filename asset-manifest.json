@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bakery/static/css/main.026865de.css",
+    "main.css": "/bakery/static/css/main.b9b7310c.css",
     "main.js": "/bakery/static/js/main.143da9e2.js",
     "static/media/img3.jpg": "/bakery/static/media/img3.6a2f3f5665eaea89adb9.jpg",
     "static/media/img0.jpg": "/bakery/static/media/img0.04c0071aad7c4b4d0269.jpg",
@@ -18,11 +18,11 @@
     "static/media/logoCompany.png": "/bakery/static/media/logoCompany.c648de7c1e638107f72d.png",
     "static/media/shopping-cart.png": "/bakery/static/media/shopping-cart.72d728045b19a4253364.png",
     "index.html": "/bakery/index.html",
-    "main.026865de.css.map": "/bakery/static/css/main.026865de.css.map",
+    "main.b9b7310c.css.map": "/bakery/static/css/main.b9b7310c.css.map",
     "main.143da9e2.js.map": "/bakery/static/js/main.143da9e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.026865de.css",
+    "static/css/main.b9b7310c.css",
     "static/js/main.143da9e2.js"
   ]
 }
