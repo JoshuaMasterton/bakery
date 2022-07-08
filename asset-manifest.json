@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/bakery/static/css/main.e5b221e5.css",
-    "main.js": "/bakery/static/js/main.4258ac29.js",
+    "main.css": "/bakery/static/css/main.0f20598c.css",
+    "main.js": "/bakery/static/js/main.8208dcb3.js",
     "static/media/img3.jpg": "/bakery/static/media/img3.6a2f3f5665eaea89adb9.jpg",
     "static/media/img0.jpg": "/bakery/static/media/img0.04c0071aad7c4b4d0269.jpg",
     "static/media/img1.jpg": "/bakery/static/media/img1.fa57846b0a0c6569c73a.jpg",
     "static/media/img7.jpg": "/bakery/static/media/img7.3b981a2481e0eaf86058.jpg",
+    "static/media/home.jpg": "/bakery/static/media/home.4372a0c67894b305c557.jpg",
     "static/media/img8.jpg": "/bakery/static/media/img8.8247bf057c9560966915.jpg",
     "static/media/img2.jpg": "/bakery/static/media/img2.4c652771216471a047a2.jpg",
     "static/media/brownie.jpg": "/bakery/static/media/brownie.7d08dcaa08383ae9bc74.jpg",
@@ -14,12 +15,14 @@
     "static/media/img5.jpg": "/bakery/static/media/img5.226d71f22cd00476d166.jpg",
     "static/media/cookie.jpg": "/bakery/static/media/cookie.6818e313aa70736d80e4.jpg",
     "static/media/img4.jpg": "/bakery/static/media/img4.05e0390dc56d5b0bc35d.jpg",
+    "static/media/logoCompany.png": "/bakery/static/media/logoCompany.6afdb495d9ecc4a36a05.png",
+    "static/media/shopping-cart.png": "/bakery/static/media/shopping-cart.72d728045b19a4253364.png",
     "index.html": "/bakery/index.html",
-    "main.e5b221e5.css.map": "/bakery/static/css/main.e5b221e5.css.map",
-    "main.4258ac29.js.map": "/bakery/static/js/main.4258ac29.js.map"
+    "main.0f20598c.css.map": "/bakery/static/css/main.0f20598c.css.map",
+    "main.8208dcb3.js.map": "/bakery/static/js/main.8208dcb3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5b221e5.css",
-    "static/js/main.4258ac29.js"
+    "static/css/main.0f20598c.css",
+    "static/js/main.8208dcb3.js"
   ]
 }
