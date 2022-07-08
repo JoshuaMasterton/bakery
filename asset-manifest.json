@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bakery/static/css/main.0f20598c.css",
-    "main.js": "/bakery/static/js/main.8208dcb3.js",
+    "main.css": "/bakery/static/css/main.026865de.css",
+    "main.js": "/bakery/static/js/main.143da9e2.js",
     "static/media/img3.jpg": "/bakery/static/media/img3.6a2f3f5665eaea89adb9.jpg",
     "static/media/img0.jpg": "/bakery/static/media/img0.04c0071aad7c4b4d0269.jpg",
     "static/media/img1.jpg": "/bakery/static/media/img1.fa57846b0a0c6569c73a.jpg",
@@ -15,14 +15,14 @@
     "static/media/img5.jpg": "/bakery/static/media/img5.226d71f22cd00476d166.jpg",
     "static/media/cookie.jpg": "/bakery/static/media/cookie.6818e313aa70736d80e4.jpg",
     "static/media/img4.jpg": "/bakery/static/media/img4.05e0390dc56d5b0bc35d.jpg",
-    "static/media/logoCompany.png": "/bakery/static/media/logoCompany.6afdb495d9ecc4a36a05.png",
+    "static/media/logoCompany.png": "/bakery/static/media/logoCompany.c648de7c1e638107f72d.png",
     "static/media/shopping-cart.png": "/bakery/static/media/shopping-cart.72d728045b19a4253364.png",
     "index.html": "/bakery/index.html",
-    "main.0f20598c.css.map": "/bakery/static/css/main.0f20598c.css.map",
-    "main.8208dcb3.js.map": "/bakery/static/js/main.8208dcb3.js.map"
+    "main.026865de.css.map": "/bakery/static/css/main.026865de.css.map",
+    "main.143da9e2.js.map": "/bakery/static/js/main.143da9e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f20598c.css",
-    "static/js/main.8208dcb3.js"
+    "static/css/main.026865de.css",
+    "static/js/main.143da9e2.js"
   ]
 }
